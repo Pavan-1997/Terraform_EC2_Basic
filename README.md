@@ -27,7 +27,7 @@ sudo apt-get update
 sudo apt-get install terraform 
 
 
-4. Check Terraform version
+4. Check Terraform version:
 
 terraform -v 
 
