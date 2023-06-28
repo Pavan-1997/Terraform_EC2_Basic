@@ -42,5 +42,5 @@ After writing the files main.tfm variables.tf and terraform.tfvars then exceute 
 
 - terraform apply
 
-This command creates another file called terraform.tfstate which contains all the resources.
+(Terraform apply This command creates another file called terraform.tfstate which contains all the resources.)
 
