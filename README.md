@@ -34,13 +34,13 @@ terraform -v
 
 After writing the files main.tfm variables.tf and terraform.tfvars then exceute the TERRAFORM
 
-1. terraform init
+- terraform init
 
 
-2. terraform plan
+- terraform plan
 
 
-3. terraform apply
+- terraform apply
 
 This command creates another file called terraform.tfstate which contains all the resources.
 
