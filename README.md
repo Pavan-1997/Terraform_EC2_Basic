@@ -2,7 +2,7 @@
 
 Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp. It allows us to define and manage infrastructure resources in a declarative manner using a simple and descriptive language. With Terraform, we can provision, manage, and version infrastructure resources across various cloud providers and other infrastructure platforms.
 
-It uses its own domain-specific language (DSL) called HCL (HashiCorp Configuration Language) for defining infrastructure resources and their configurations. HCL is designed to be human-readable and easy to understand, allowing you to express your infrastructure requirements in a declarative manner
+It uses its own domain-specific language (DSL) called HCL (HashiCorp Configuration Language) for defining infrastructure resources and their configurations. HCL is designed to be human-readable and easy to understand, allowing you to express your infrastructure requirements in a declarative manner.
 
 ![image](https://github.com/Pavan-1997/Terraform_EC2_Basic/assets/32020205/988f3c69-6e5b-4836-98d7-92b429c5f948)
 
